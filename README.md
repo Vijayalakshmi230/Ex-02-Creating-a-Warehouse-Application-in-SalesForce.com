@@ -17,15 +17,14 @@ In Salesforce we can create, manage and customise both applications according to
 
 ### Step 1: Log into your developer
 
-
-![Ex2-1](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/93b506fe-5542-4036-a344-939cbe7e67f3)
-
+![image](https://github.com/Vijayalakshmi230/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/127175503/61217d27-d419-41fa-b954-b9e7aeb96326)
 
 
 ### Step 2: Click the Setup Link (upper-right corner).
 
 
- ![ex2-2](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/183746f5-0293-4cd4-bece-09eb8b7ed11e)
+![image](https://github.com/Vijayalakshmi230/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/127175503/5714cb05-a170-4ca9-95e2-581f50699322)
+
 
 
 ### Step 3: In the Left Navigation, Platform tools, then click App Manager
